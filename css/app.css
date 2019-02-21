@@ -1,13 +1,13 @@
 @font-face {
   font-family: "patrick";
-  src: url("../fonts/patrick.ttf");
+  src: url("../fonts/PATRICK.TTF");
 }
 
 body {
   color: rgb(148,0,211);
   background: rgb(255,192,203);
   font-size: 12;
-  font-family: arial;
+  font-family: "patrick";
 }
 
 p {
