@@ -4,19 +4,27 @@ div.people {
 }
 
 #jackma {
-  color: #00f;
+  color: #394BA0;
+  background: #FFA500;
+  border-color: #394BA0;
 }
 
 #tomcruise {
-  color: #f00;
+  color: #3F3B32;
+  background: #4AF244;
+  border-color: #3F3B32;
 }
 
 #johncena {
-  color: #0f0;
+  color: #4AF244;
+  background: #390651;
+  border-color: #4AF244;
 }
 
 #ronaldo {
-
+  color: #89FF00;
+  background: #EF606B;
+  border-color: #89FF00;
 }
 
 audio, video, iframe {width: 50%}
