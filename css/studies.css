@@ -1,0 +1,19 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    background-color: #fff;
+    width: 100%;
+    color: #000;
+}
+
+td, th {
+    border: 2px solid #999;
+    text-align: left;
+    padding: 8px;
+}
+
+.highlighted {
+  background-color: #f00;
+  color: #fff;
+  font-weight: bold;
+}
